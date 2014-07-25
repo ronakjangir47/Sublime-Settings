@@ -43,10 +43,10 @@
     "spell_check": false,
 
     // The number of spaces a tab is considered equal to
-    "tab_size": 4,
+    "tab_size": 2,
 
     // Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": false,
+    "translate_tabs_to_spaces": true,
 
     // If translate_tabs_to_spaces is true, use_tab_stops will make tab and
     // backspace insert/delete up to the next tabstop
@@ -158,7 +158,7 @@
     // Controls how the indent guides are drawn, valid options are
     // "draw_normal" and "draw_active". draw_active will draw the indent
     // guides containing the caret in a different color.
-    "indent_guide_options": ["draw_normal"],
+    "indent_guide_options": ["draw_active"],
 
     // Set to true to removing trailing white space on save
     "trim_trailing_white_space_on_save": true,
@@ -323,4 +323,3 @@
     // a restart may be required if the package contains plugins.
     "ignored_packages": ["Vintage"]
 }
-
