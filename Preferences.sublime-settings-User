@@ -36,12 +36,12 @@
 		"tmp",
 		"public/system",
 		".sass-cache",
-		"data",
 		"tmp",
-		".git"
+		".git",
+		".bundle"
 	],
 	"font_face": "Monaco",
-	"font_size": 18,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -59,4 +59,3 @@
 	"use_tab_stops": true,
 	"vintage_start_in_command_mode": false
 }
-
